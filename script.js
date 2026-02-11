@@ -1,21 +1,8 @@
-let userName = "Matouš";
-console.log(userName);
+let jmeno1 = "Lukas";
+let jmeno2 = "Pepa";
 
-userName = "Honzík";
-console.log(userName);
+let věkLukas = 21;
+let věkPepa = 67;
 
-console.log(7+4);
-console.log("7"+"4");
-console.log("A"+"B");
-console.log("7"+4);
-
-let age = 31;
-console.log(age > 20);
-
-let text = "Text";
-console.log(typeof text);
-
-let a;
-console.log(a)
-let b = null;
-console.log(b)
+let součet = (věkLukas + věkPepa)
+console.log(jmeno1 + " a " + jmeno2 + " jsou dohromady staří " + součet + " let")
