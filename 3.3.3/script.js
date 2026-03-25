@@ -1,0 +1,1 @@
+alert("Pracoval jsem na jiném počítači, výsledek mé práce je v přiložené složce.")
