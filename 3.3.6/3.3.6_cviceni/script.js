@@ -1,6 +1,9 @@
-let number = 2;
 
-while (number<=100) {
-    console.log(number);
-    nubmer++;
-}
+let counter = 0;
+
+while (counter <= 100) {
+    counter++;
+    counter++;
+    if (counter === 50) continue;
+        console.log(counter);
+};
