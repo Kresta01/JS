@@ -9,7 +9,7 @@ if (isLoggedIn = true) {
  console.log("Přístup jako uživatel povolen!")
  }
 }
- 
+
 // Operátory
  
 let age = 20;
