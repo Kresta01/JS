@@ -29,6 +29,6 @@ for (b = 0; b < 10; b++) {
 }
 
 for (c = 0; c < 10; c++) {
-    if (c === 5) continue;    // continue preskakuje podminku if
+    if (c === 5) continue;    // continue preskakuje hodnotu v podmince if
     console.log (b);
 }
